@@ -24,7 +24,7 @@
         "vlucas/phpdotenv": "^2.0",
         "tuupola/cors-middleware": "^0.5.0",
         "gofabian/negotiation-middleware": "^0.1.2",
-        "tuupola/base62": "^0.8.0",
+        "tuupola/base62": "^1.0",
         "crell/api-problem": "^2.0",
         "tuupola/server-timing-middleware": "^0.3.0"
     },
